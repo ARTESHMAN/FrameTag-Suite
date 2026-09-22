@@ -1,0 +1,12 @@
+*.zip
+venv/
+.venv/
+logs/
+1/
+22/
+__pycache__/
+*.pyc
+*.mp4
+*.avi
+*.mkv
+*.mov
